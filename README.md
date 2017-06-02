@@ -1,4 +1,4 @@
-# Fall-2016-CMU-Men-s-Soccer-Team
+# Fall 2016 CMU Men's Soccer Team Report
 
 Visualizing various statistics of the CMU Men's Soccer Team using ggplot and Shiny in R
 
